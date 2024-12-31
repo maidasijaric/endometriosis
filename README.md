@@ -3,7 +3,7 @@
 ### 1. PowerPoint overview of the project: 
     "Endometriosis Presentation (Data Science 1 Project).pdf"
 ### 2. Jupyter Notebook for Data Science coding work: 
-    "Endometriosis Data Science Project - Gene Expression.ipynb"
+    "Endometriosis ML Project - Gene Expression.ipynb"
 
 ### Description:
 In this new application of machine learning (Random Forest, XGBoost and RFE) on gene expression data, the gene "TPK1" emerged as the second most predictive gene for classifying endometriosis, a potentially debilitating disease that affects ~10% of all women on earth and currently has no cure nor effective, long-term treatment options. This data science work positioned the gene TPK1 as a new biomarker, which the existing medical literature has yet to recognize. Interestingly, healthy samples displayed a bimodal TPK1 expression profile, whereas endometriosis samples exhibited a more continuous and elevated pattern, suggesting a potentially “locked-in” metabolic state driven by chronic inflammation. These findings open a fresh avenue for investigating TPK1’s mechanistic role in endometriosis pathophysiology and underscore the power of non-linear, ensemble-based models in uncovering hidden diagnostic biomarkers for endometriosis.
